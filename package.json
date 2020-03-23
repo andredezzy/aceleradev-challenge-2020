@@ -1,0 +1,17 @@
+{
+  "name": "aceleradev-challenge-2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andredezzy/aceleradev-challenge-2020.git",
+  "author": "André 'Dezzy' <38265368+andredezzy@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0",
+    "js-sha1": "^0.6.0",
+    "node-fetch": "^2.6.0"
+  }
+}
